@@ -1,8 +1,8 @@
 ---
 title: ¿Cómo funcionan los activadores KMS?
-published: 2023-08-13
+published: 2020-08-13
 description: '¿Cómo funcionan los activadores KMS? Una publicación que detalla el funcionamiento de scripts para hacer activaciones de Windows y Office.'
-image: './como_funcionan_los_activadores_kms.webp'
+image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/como_funcionan_los_activadores_kms.webp'
 tags: [Windows, Activadores]
 category: 'Windows'
 draft: false 
@@ -23,7 +23,7 @@ Tras una búsqueda en internet llegamos a los scripts proporcionados por <a href
 **ADVERTENCIA**:
 
 + Este material es meramente educativo y no se incentiva de ninguna manera a el uso de la piratería. Solamente usted es responsable de sus acciones.
-+ Puedes consultar el código utilizado a través de https://github.com/elcaza/activadores_kms_explicados
++ Puedes consultar el código utilizado a través del <a href="https://github.com/elcaza/activadores_kms_explicados" target="_blank">repositorio de Github.</a>
 
 # ¿Qué es el servicio KMS?
 
@@ -35,7 +35,7 @@ Por lo anterior, para este tipo de activación se debe contemplar lo siguiente:
 
 1. La empresa debe montar su propio servidor KMS.
 1. Requieren un mínimo de activaciones para funcionar. Es decir, para hacer válidas las activaciones varia el número MÍNIMO de clientes que utilicen la licencia. De otro modo las licencias no serán validadas.
-Por ejemplo, si el paquete de office requiere un mínimo de 10 usuarios para realizar la activación por lote, tu servidor KMS debe tener registradas al menos a 10 máquinas para que todas cuenten con la licencia por lote de Office, si en algún momento bajan a solamente 9 activaciones todas las máquinas dejarán de tener una licencia válida de Office.
+*Por ejemplo*, si el paquete de office requiere un mínimo de 10 usuarios para realizar la activación por lote, tu servidor KMS debe tener registradas al menos a 10 máquinas para que todas cuenten con la licencia por lote de Office, si en algún momento bajan a solamente 9 activaciones todas las máquinas dejarán de tener una licencia válida de Office.
 1. La activación por lote solamente se activa de manera temporal, durante 180 días, y su licencia debe ser renovada antes de que termine ese plazo. Sin embargo, este proceso lo hace automáticamente el software por lo que mientras el servidor KMS se mantenga online y activo no habrá problema.
 
 # ¿Cómo funcionan los activadores KMS?
@@ -48,11 +48,11 @@ Para esto solamente se requiere lo siguiente:
 1. Hacer que este tenga una licencia “válida”
 1. Hacer que tus computadoras consulten a TU SERVIDOR KMS
 
-Para esto ya existe un script proporcionado por https://msguides.com/ el cual se conecta a su propio Servidor KMS. Es decir, msguides ya hizo todo el trabajo.
+Para esto ya existe un script proporcionado por <a href="http://msguides.com/" target="_blank">msguides</a> el cual se conecta a su propio Servidor KMS. Es decir, msguides ya hizo todo el trabajo.
 
 # ¿Cómo se valida la licencia de Windows mediante un script KMS?
 
-Para validar una licencia de Windows mediante el servidor KMS que proporciona msguides tenemos que realizar lo siguiente:
+Para validar una licencia de Windows mediante el servidor KMS que proporciona <a href="http://msguides.com/" target="_blank">msguides</a> tenemos que realizar lo siguiente:
 
 1. Ubicar que versión de Windows tenemos instalada
 1. Cambiar nuestra clave de producto por una valida para el servidor KMS
@@ -70,19 +70,19 @@ Desde nuestro explorador de archivos, daremos click derecho sobre *“This PC”
 Una vez que conocemos la versión de Windows que tenemos procedemos a ubicar el número de clave que tenemos que utilizar.
 
 ~~~markdown
-**Win 10 Home:** TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 
-**Win 10 Home N:** 3KHY7-WNT83-DGQKR-F7HPR-844BM 
-**Win 10 Home Single Language:** 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH 
-**Win 10 Home Country Specific:** PVMJN-6DFY6-9CCP6-7BKTT-D3WVR 
-**Win 10 Professional:** W269N-WFGWX-YVC9B-4J6C9-T83GX 
-**Win 10 Professional N:** MH37W-N47XK-V7XM9-C7227-GCQG9 
-**Win 10 Education:** NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 
-**Win 10 Education N:** 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ 
-**Win 10 Enterprise:** NPPR9-FWDCX-D2C8J-H872K-2YT43 
-**Win 10 Enterprise N:** DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4   
+Win 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 
+Win 10 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM 
+Win 10 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH 
+Win 10 Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR 
+Win 10 Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX 
+Win 10 Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9 
+Win 10 Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 
+Win 10 Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ 
+Win 10 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43 
+Win 10 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4   
 ~~~
 
-+     Para consultar más claves puedes revisar la configuración del cliente KMS.
++ Para consultar más claves puedes revisar la configuración del cliente KMS.
 
 Para nuestro caso utilizaremos la versión de Windows 10 Professional. Por lo que desde una pestaña cmd con derechos de Administrador teclearemos lo siguiente:
 
@@ -90,7 +90,7 @@ Para nuestro caso utilizaremos la versión de Windows 10 Professional. Por lo qu
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
 ~~~
 
-+ /ipk establece una clave de producto
++ **/ipk** establece una clave de producto
 
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/2.webp" width="100%">
 
@@ -119,7 +119,9 @@ Si volvemos a las propiedades del sistema del paso número 1 podremos ver que ah
 
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/5.webp" width="100%">
 
-> En caso de que la activación no funcione se deberá utilizar el siguientes comando y reintentar nuevamente el proceso desde el paso 1
+:::note[Nota]
+En caso de que la activación no funcione se deberá utilizar el siguientes comando y reintentar nuevamente el proceso desde el paso 1
+:::
 
 ~~~
 slmgr -upk
@@ -133,8 +135,11 @@ Para utilizar este script es necesario descomprimir el archivo `activate_office.
 
 + Asegúrese de que Windows Defender esté desactivado.
 
-> Password:
-> activate
+:::important[Esto es importante]
+Password:
+
+activate
+:::
 
 Una vez descomprimido el archivo solamente tenemos que dirigirnos a la carpeta **activate_office** y *ejecutar como administrador* el archivo **activate.cmd**
 
@@ -145,8 +150,9 @@ Una vez descomprimido el archivo solamente tenemos que dirigirnos a la carpeta *
 1. Luego de ello nos preguntará si queremos visitar el blog del autor de este script
 1. Y así habremos comprobado que efectivamente el office ha quedado activado
 
-> Dato curioso:
-> Tu office se transforma a Office 2016 Pro Plus debido a que no tiene licenciamientos disponibles para las otras versiones.
+:::note[Dato curioso]
+Tu office se transforma a Office 2016 Pro Plus debido a que no tiene licenciamientos disponibles para las otras versiones. Sin embargo prevalecen las funciones.
+:::
 
 # ¿Es seguro utilizar activadores KMS?
 
@@ -385,8 +391,11 @@ Bro, ese no es un problema. La contraseña es activate como se mencionó en el p
 
 *Pendiente. Quizá exista, quizá no.
 
-> Gracias por terminar de leer este artículo, recuerda tener cuidado con lo que le instalas a tu compu :)
-> — El Capitán
+:::tip[Nota final]
+Gracias por terminar de leer este artículo, recuerda tener cuidado con lo que le instalas a tu compu :)
 
-+ Twitter: https://twitter.com/elcaza_
-+ Github: https://github.com/elcaza
+— El Capitán
+:::
+
++ <a href="https://twitter.com/elcaza_" target="_blank">Twitter</a>
++ <a href="https://github.com/elcaza" target="_blank">Github</a>
