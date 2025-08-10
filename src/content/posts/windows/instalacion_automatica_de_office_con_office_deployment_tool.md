@@ -1,10 +1,10 @@
 ---
 title: Instalación automática de Office con Office Deployment Tool
 published: 2020-05-18
-description: '¿Sabías que es posible instalar cualquier versión de office sin la necesidad de hacer configuraciones paso a paso a través del menú de instalación? ¿Sabes por qué el software KMS es capaz de “activar” office con tan solo un simple script?'
+description: '¿Sabías que es posible instalar cualquier versión de office sin la necesidad de hacer configuraciones paso a paso a través del menú de instalación?'
 image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/office_dt/1.webp'
-tags: [Windows]
-category: 'Windows, Activadores'
+tags: [Windows, Activadores]
+category: 'Windows'
 draft: false 
 lang: 'es'
 ---
