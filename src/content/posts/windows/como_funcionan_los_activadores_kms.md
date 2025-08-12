@@ -9,7 +9,7 @@ draft: false
 lang: 'es'
 ---
 
-A menudo la alternativa más utilizada para piratear productos de Microsoft (Windows y Office) es utilizar los activadores KMS, de estos existen diversos archivos.exe entre los cuales destacan:
+A menudo la alternativa más utilizada para piratear productos de Microsoft (Windows y Office) es utilizar los activadores KMS, de estos existen diversos *archivos.exe* entre los cuales destacan:
 
 + KMSpico
 + KMS Tools
@@ -82,7 +82,8 @@ Win 10 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 Win 10 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4   
 ~~~
 
-+ Para consultar más claves puedes revisar la configuración del cliente KMS.
++ Para consultar más claves puedes revisar <a href="https://docs.microsoft.com/es-es/windows-server/get-started/kmsclientkeys#span-data-ttu-id58ca7-277versiones-anteriores-de-windowsspanspan-classsxs-lookupspan-data-stu-id58ca7-277earlier-versions-of-windowsspanspan"  target="_blank">la configuración del cliente KMS</a>.
+
 
 Para nuestro caso utilizaremos la versión de Windows 10 Professional. Por lo que desde una pestaña cmd con derechos de Administrador teclearemos lo siguiente:
 
