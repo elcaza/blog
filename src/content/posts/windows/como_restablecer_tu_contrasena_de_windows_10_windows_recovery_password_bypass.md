@@ -21,9 +21,9 @@ Sin embargo, estas opciones a menudo no serán de nuestra utilidad. No obstante,
 
 1. Explicación del problema y solución
 1. Iniciando una consola
-1. Sustituir utilman.exe por cmd.exe
+1. Sustituir `utilman.exe` por `cmd.exe`
 1. Cambiando la contraseña
-1. Regresando las utilman.exe a la normalidad
+1. Regresando las `utilman.exe` a la normalidad
 1. Anexo: Preparación de vmware (Solo si tu máquina es virtual)
 
 # Requisitos:
