@@ -169,7 +169,7 @@ Sin embargo, el script activador que proporciona <a href="https://msguides.com/"
 
 # Anexo Script KMS con comentarios
 
-~~~txt
+~~~bat
 :: ========================================================
 :: ========================================================
 :: ========================================================
@@ -383,7 +383,8 @@ pause >nul
 
 Lo que sucede es que windows detecta el script como un activador de Office y por supuesto lo bloquea. De hecho, en la descripción de Windows Defender menciona. *“HackTool:BAT/AutoKMS This program has potentially unwanted behavior”*
 
-+ Basta con deshabilitar Windows Defender durante la activación.
++ Basta con deshabilitar Windows Defender durante la activación. 
+    + <a href="https://elcaza.github.io/blog/posts/windows/on_off_windows_defender/" target="_blank">Aquí detallamos el proceso</a>
 
 ## Pantalla azul de bloqueo
 
