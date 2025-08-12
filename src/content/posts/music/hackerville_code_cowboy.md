@@ -15,6 +15,7 @@ lang: 'es'
 
 # Hackerville — Code Cowboy
 
+~~~
 In a small town far away
 En un pequeño pueblo muy lejano
 Live the hacker night and day
@@ -70,13 +71,14 @@ Always moving never trace
 Siempre en movimiento, sin dejar rastro
 Always moving never trace
 Siempre en movimiento, sin dejar rastro
+~~~
 
 # Información
 
 Circuit Saddles — Code Cowboy
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/1.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/hackerville_code_cowboy.webp" width="100%">
 
-:::note[¿Qué pasó?]
+:::note[Nota]
 Este es un vídeo de la canción “Hackerville” de “Code Cowboy”. Sin duda alguna, una de mis canciones favoritas.
 
 ¿Qué pasó con Code Cowboy y por qué ahora sus canciones no están disponibles? Ciertamente no lo sé, ahora son tan sólo un doloroso y triste LOST DATA. Afortunadamente pude salvar esta canción gracias a que estaba trabajando en su traducción.
