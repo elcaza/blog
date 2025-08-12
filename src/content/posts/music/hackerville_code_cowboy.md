@@ -2,7 +2,7 @@
 title: Hackerville — Code Cowboy Lyrics English & Spanish
 published: 2025-08-11
 description: 'Como coloquialmente se diría, perate wey, mi rola'
-image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/kms/hackerville_code_cowboy.webp'
+image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/hackerville/hackerville_code_cowboy.webp'
 tags: [Music]
 category: 'Music'
 draft: false 
