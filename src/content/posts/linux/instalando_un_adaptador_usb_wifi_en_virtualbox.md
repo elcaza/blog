@@ -1,12 +1,13 @@
 ---
 title: Instalando un adaptador USB WIFI en VirtualBox
 published: 2020-04-26
-description: 'Cómo instalar un adaptador USB WIFI en VirtualBox?'
+description: '¿Cómo instalar un adaptador USB WIFI en VirtualBox?'
 image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/linux/wifi_virtualbox/1.webp'
 tags: [Linux]
 category: 'Linux'
 draft: false 
 lang: 'es'
+banner: false
 ---
 
 Al realizar procesos de auditoría WIFI puede ser necesario utilizar máquinas virtuales, para esto, es posible usar una máquina en VirtualBox y un adaptador de WIFI vía USB.
