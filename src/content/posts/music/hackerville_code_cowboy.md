@@ -73,7 +73,7 @@ Siempre en movimiento, sin dejar rastro
 Siempre en movimiento, sin dejar rastro
 ~~~
 
-~~~{1, 3, 5, 7}
+~~~{js 1, 3, 5, 7}
 In a small town far away
 En un pequeño pueblo muy lejano
 Live the hacker night and day
