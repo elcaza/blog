@@ -5,7 +5,7 @@ description: 'Como coloquialmente se diría, perate wey, mi rola'
 image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/kms/hackerville_code_cowboy.webp'
 tags: [Music]
 category: 'Music'
-draft: true 
+draft: false 
 lang: 'es'
 ---
 
