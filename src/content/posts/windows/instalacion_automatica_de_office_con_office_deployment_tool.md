@@ -25,7 +25,7 @@ Este artículo constará de dos partes:
 
 # 1. Instalación Automatizada de Office
 
-La mayor parte de las aplicaciones para windows se pueden configurar a través de archivos .xml. Para el caso de office contamos con la herramienta <a href="https://docs.microsoft.com/en-us/deployoffice/overview-office-deployment-tool" target="_blank">Office Deployment Tool</a> que nos permitirá introducir un archivo de configuración .xml para lograr una instalación automatizada.
+La mayor parte de las aplicaciones para windows se pueden configurar a través de archivos **.xml**. Para el caso de office contamos con la herramienta <a href="https://docs.microsoft.com/en-us/deployoffice/overview-office-deployment-tool" target="_blank">Office Deployment Tool</a> que nos permitirá introducir un archivo de configuración .xml para lograr una instalación automatizada.
 
 Para realizar este procedimiento lo primero que debes realizar es descargar los archivos requeridos de <a href="https://github.com/elcaza/office_autoinstall_and_hack_explained/archive/master.zip" target="_blank">el repositorio de github</a>. Una vez descargados y descomprimidos los archivos, nos encontraremos con la siguiente estructura de directorios.
 
@@ -35,6 +35,27 @@ Si solamente te interesa desplegar la instalación puedes saltar hasta la secci�
 Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
 
 ¡Quédate que te lo explico paso a paso!
+:::
+
+:::tip[Tip]
+Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
+Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
+¡Quédate que te lo explico paso a paso!
+:::
+
+
+:::tip[Tip]
+~~~
+Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
+Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
+¡Quédate que te lo explico paso a paso!
+~~~
+:::
+
+:::tip[Tip]
++ Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
++ Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
++ ¡Quédate que te lo explico paso a paso!
 :::
 
 ## Contenido de la carpeta deploy_office
