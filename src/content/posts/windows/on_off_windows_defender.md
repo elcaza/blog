@@ -57,9 +57,10 @@ Por lo que, sin más premura, he aquí los pasos para desactivar y volver a acti
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/8.webp" width="100%">
 
 6) Adicionalmente, existen otras opciones de seguridad que permiten no analizar diversos tipos de archivos o directorios en en sistema. Así como opciones de notificación.
+Estos temas se verán a fondo en un futuro (Espacio para el link — Se actualizará este post y se añadirá el link al post).
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/9.webp" width="100%">
 
-Estos temas se verán a fondo en un futuro (Espacio para el link — Se actualizará este post y se añadirá el link al post).
+Opciones adicionales para exclusiones y notificaciones de Windows Defender
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/10.webp" width="100%">
 
 # 4. Desactivar Windows Smart Screen
