@@ -9,6 +9,8 @@ draft: false
 lang: 'es'
 ---
 
+La herramienta se puede encontrar en: + <a href="https://github.com/elcaza/do_recon" target="_blank">Github</a>
+
 # Introducción
 
 Cuando realizas pruebas de seguridad informática (Hacking Ético / Pentest), una de las etapas más importantes es el reconocimiento. Este es un pilar, pero puede llegar a ser un tanto aburrido y angustiante cuando tienes múltiples activos por evaluar.
@@ -44,9 +46,9 @@ En orden (Tú puedes elegir cuáles de estas opciones ejecutar):
 
 ## Requisitos de instalación
 
-+ nmapl
-+ traceroutel
-+ nslookupl
++ nmap
++ traceroute
++ nslookup
 
 ~~~bash
 sudo apt update && sudo apt install nmap traceroute dnsutils
