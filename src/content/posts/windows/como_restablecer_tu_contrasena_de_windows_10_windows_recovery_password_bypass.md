@@ -65,7 +65,7 @@ Para este ejemplo usaremos un USB Booteable con Windows y los pasos serán los s
 1. Booteamos de desde nuestro USB/CD booteable
 1. Ejecutamos una CMD
 
-Una vez insertado nuestro USB/CD booteable. Desde la página de login de Windows, damos click en “Botón de apagado”, presionando la tecla SHIFT damos click en “Restart”.
+Una vez insertado nuestro USB/CD booteable. Desde la página de login de Windows, damos click en “Botón de apagado”, presionando la tecla **SHIFT** damos click en “Restart”.
 
 (También podríamos simplemente bootear desde el inicio de Windows, el proceso variará de acuerdo a la marca de nuestra computadora).
 
@@ -140,9 +140,9 @@ De esa manera encontramos nuestra unidad que tiene Windows instalado
 
 Ahora:
 
-1. Abrimos la ubicación de utilman.exe que es C:\Windows\System32
-1. Renombramos el archivo Utilman.exe por Utilman.exe.bak
-1. Copiamos cmd.exe y lo nombramos como Utilman.exe (Con esto haremos que cada que abramos utilman desde la pantalla de login se ejecute la línea de comandos en modo administrador).
+1. Abrimos la ubicación de utilman.exe que es `C:\Windows\System32`
+1. Renombramos el archivo `Utilman.exe` por `Utilman.exe.bak`
+1. Copiamos cmd.exe y lo nombramos como `Utilman.exe` (Con esto haremos que cada que abramos utilman desde la pantalla de login se ejecute la línea de comandos en modo administrador).
 1. Reiniciamos nuestro equipo
 
 ~~~bat
