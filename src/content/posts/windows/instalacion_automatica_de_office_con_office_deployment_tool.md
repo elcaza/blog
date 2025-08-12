@@ -14,7 +14,7 @@ lang: 'es'
 Este artículo constará de dos partes:
 
 1. 1ra. Instalación automática de Office con Office Deployment Tool.
-1. 2da. Explicación sobre por qué funciona la activación mediante el script KMS (Se publicará el 31 de mayo de 2020)
+1. 2da. Explicación sobre por qué funciona la activación mediante el script KMS (<a href="https://elcaza.github.io/blog/posts/windows/como_funcionan_los_activadores_kms/" target="_blank">¿Cómo funcionan los activadores KMS?)</a>
 
 :::warn[Advertencia]
 1. Este material es meramente educativo y no se incentiva de ninguna manera a el uso de la piratería. Solamente usted es responsable por sus acciones.

@@ -7,7 +7,6 @@ tags: [Linux]
 category: 'Linux'
 draft: false 
 lang: 'es'
-banner: false
 ---
 
 Al realizar procesos de auditoría WIFI puede ser necesario utilizar máquinas virtuales, para esto, es posible usar una máquina en VirtualBox y un adaptador de WIFI vía USB.
