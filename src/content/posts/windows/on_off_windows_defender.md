@@ -57,44 +57,42 @@ Por lo que, sin más premura, he aquí los pasos para desactivar y volver a acti
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/8.webp" width="100%">
 
 6) Adicionalmente, existen otras opciones de seguridad que permiten no analizar diversos tipos de archivos o directorios en en sistema. Así como opciones de notificación.
+
 Estos temas se verán a fondo en un futuro (Espacio para el link — Se actualizará este post y se añadirá el link al post).
 <img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/9.webp" width="100%">
-
-Opciones adicionales para exclusiones y notificaciones de Windows Defender
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/10.webp" width="100%">
 
 # 4. Desactivar Windows Smart Screen
 
 En algunas ocasiones, observaremos una pantalla azul indicando que no se puede ejecutar algún programa. En teoría, bastaría con hacer click en “More info” y “Run anyway”; sin embargo en ocasiones esta última opción no nos aparecerá en el sistema.
 
 1. Ejemplo de Smart Screen
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/11.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/10.webp" width="100%">
 
 2. Desde el panel de administración de Windows Defender hacemos click en “App & browser control”
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/12.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/11.webp" width="100%">
 
 3. Seleccionamos “Reputation-based protection settings”
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/13.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/12.webp" width="100%">
 
 4. Se mostrarán diversas configuraciones para la “SmartScreen” de Windows. Básicamente, “qué aplicaciones y de qué fuentes te alertará en caso de que algo pueda ser peligroso”
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/14.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/13.webp" width="100%">
 
 5. Al dar click en desactivar alguna, aceptamos los cambios en el sistema
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/15.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/14.webp" width="100%">
 
 6. Vista después de desactivar las opciones de seguridad
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/16.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/15.webp" width="100%">
 
 # 5. Activar las opciones de seguridad nuevamente
 
 1. Una vez finalizadas tus operaciones, podrías querer activar nuevamente tus protecciones en el sistema. Para ello, desde el panel de administración de Windows Security, puedes seleccionar “Turn on” o “activar” repetidamente hasta que todo se encuentre en verde.
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/17.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/16.webp" width="100%">
 
 2. Aceptas los cambios en el sistema cada que sea necesario
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/18.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/17.webp" width="100%">
 
 3. Vista tras reactivar todas las opciones de seguridad de Windows Defender
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/19.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/w_defender/18.webp" width="100%">
 
 :::tip[Nota final]
 ¡Gracias por terminar de leer este artículo! uwur
