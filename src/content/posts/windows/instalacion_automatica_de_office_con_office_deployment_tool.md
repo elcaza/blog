@@ -30,29 +30,6 @@ La mayor parte de las aplicaciones para windows se pueden configurar a través d
 Para realizar este procedimiento lo primero que debes realizar es descargar los archivos requeridos de <a href="https://github.com/elcaza/office_autoinstall_and_hack_explained/archive/master.zip" target="_blank">el repositorio de github</a>. Una vez descargados y descomprimidos los archivos, nos encontraremos con la siguiente estructura de directorios.
 
 :::tip[Tip]
-Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
-
-Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
-
-¡Quédate que te lo explico paso a paso!
-:::
-
-:::tip[Tip]
-Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
-Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
-¡Quédate que te lo explico paso a paso!
-:::
-
-
-:::tip[Tip]
-~~~
-Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
-Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
-¡Quédate que te lo explico paso a paso!
-~~~
-:::
-
-:::tip[Tip]
 + Si solamente te interesa desplegar la instalación puedes saltar hasta la sección 1.3 
 + Sin embargo, si te gusta la carnita del cómo funcionan las cosas...
 + ¡Quédate que te lo explico paso a paso!
@@ -68,7 +45,7 @@ Contenido de la carpeta deploy_office
 
 ## 1.1 ¿Cómo se configura el archivo .xml?
 
-Nosotros ya contamos con diversos archivos de configuración .xml por defecto. Sin embargo, estos pueden ser modificados para que se acoplen completamente a nuestras necesidades. A continuación explicaremos las partes del archivo `config_sample.xml`.
+Nosotros ya contamos con diversos archivos de configuración `.xml` por defecto. Sin embargo, estos pueden ser modificados para que se acoplen completamente a nuestras necesidades. A continuación explicaremos las partes del archivo `config_sample.xml`.
 
 ~~~xml
 <Configuration>
@@ -98,10 +75,10 @@ Como podemos observar el archivo de configuración únicamente consta de un par 
 Aquí podemos elegir los valores `32` o `64` dependiendo si queremos hacer la instalación de 32bits o 64bits
 
 ### Product ID
-+ O365ProPlusRetail (Office 365 ProPlus)
-+ ProPlusRetail (Office 2016 ProPlus)
-+ en-us (Language I)
-+ Puede ver todos los códigos de lenguajes aquí
++ `O365ProPlusRetail` (Office 365 ProPlus)
++ `ProPlusRetail` (Office 2016 ProPlus)
++ `en-us` (Language I)
++ <a href="https://docs.microsoft.com/en-us/deployoffice/overview-deploying-languages-microsoft-365-apps" target="_blank">Puede ver todos los códigos de lenguajes aquí</a>
 + ExcludeApp ID (Aplicaciones a excluir. No serán instaladas)
 + Product ID (Aplicaciones extras que se incluirán)
 
