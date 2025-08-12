@@ -214,7 +214,7 @@ Inicio exitoso con la nueva contraseña
 
 # 5. Regresando las utilman.exe a la normalidad
 
-:::warn[Importante]
+:::warning[Importante]
 Finalmente debemos regresar la funcionalidad normal de utilman.exe, esto debido a que no queremos que otro usuario pueda hacer uso de nuestro cmd con privilegios. ¡Es riesgoso!
 :::
 

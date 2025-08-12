@@ -92,7 +92,7 @@ do_recon.sh input_file.txt
 
 ## ¿Cómo eliminar todos los archivos y carpetas creadas por la herramienta?
 
-:::warn[Importante]
+:::warning[Importante]
 Sé cuidadoso, pues este comando eliminará todas las carpetas y archivos .log que se encuentren en la ruta actual
 :::
 
