@@ -73,64 +73,6 @@ Siempre en movimiento, sin dejar rastro
 Siempre en movimiento, sin dejar rastro
 ~~~
 
-~~~{js 1, 3, 5, 7}
-In a small town far away
-En un pequeño pueblo muy lejano
-Live the hacker night and day
-Vive el hacker de noche y de día
-Fingers tense tone keys so bright
-Sus dedos iluminando el sonar de las teclas
-Hidden secrets outside
-Secretos ocultos del exterior
-
-Coding whispers in the dark
-Codificando susurros en la oscuridad
-Left a little lucky mark
-Dejó una pequeña marca de suerte
-Hacking through the night so still
-Hackeando a través de la noche serena
-Dreams of breached hackerville
-Sueños de la vulnerada hackerville
-
-Oh he is a cowboy on the net
-Oh, él es un vaquero en la red
-Finding phrases we forget
-Encontrando contraseñas que olvidamos
-In the wild of cyberspace
-En el salvaje ciberespacio
-Always moving never trace
-Siempre en movimiento, sin dejar rastro
-
-Riding waves of data stream
-Montando olas de stream de datos
-Living now his secret dream
-Viviendo su ahora sueño secreto
-No one knows the name he bears
-Nadie conoce su nombre
-just the shadow in the lamp
-Solo su silueta al pasar en la oscuridad
-
-Only nights send flashing lights
-Solamente por las noches envía señales
-Out in the search for bytes
-En la búsqueda de bytes
-Coding restless free and wild
-Codificando sin parar, libre y salvaje
-Hacker hard the digital champ
-Un hacker curtido, el campeón digital
-
-Oh he is a cowboy on the net
-Oh, él es un vaquero en la red
-Finding phrases we forget
-Encontrando contraseñas que olvidamos
-In the wild of cyberspace
-En el salvaje ciberespacio
-Always moving never trace
-Siempre en movimiento, sin dejar rastro
-Always moving never trace
-Siempre en movimiento, sin dejar rastro
-~~~
-
 # Información
 
 Circuit Saddles — Code Cowboy
