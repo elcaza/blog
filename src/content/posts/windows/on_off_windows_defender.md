@@ -3,8 +3,8 @@ title: ¿Cómo activar y desactivar Windows Defender y Smart Screen?
 published: 2025-07-06
 description: 'En este post aprenderás a activar y desactivar Windows Defender y Smart Screen'
 image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/como_funcionan_los_activadores_kms.webp'
-tags: [Linux]
-category: 'Linux'
+tags: [Windows]
+category: 'Windows'
 draft: true 
 lang: 'es'
 ---
