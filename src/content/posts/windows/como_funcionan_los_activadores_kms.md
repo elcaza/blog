@@ -138,14 +138,8 @@ Para utilizar este script es necesario descomprimir el archivo `activate_office.
 
 :::important[Password]
 ~~~
-Password:
 activate
 ~~~
-:::
-
-:::important[Password]
-+ Password:
-+ activate
 :::
 
 Una vez descomprimido el archivo solamente tenemos que dirigirnos a la carpeta **activate_office** y *ejecutar como administrador* el archivo **activate.cmd**
