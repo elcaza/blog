@@ -2,7 +2,7 @@
 title: Instalando un adaptador USB WIFI en VirtualBox
 published: 2020-04-26
 description: 'Cómo instalar un adaptador USB WIFI en VirtualBox?'
-image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/wifi_virtualbox/1.webp'
+image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/linux/wifi_virtualbox/1.webp'
 tags: [Linux]
 category: 'Linux'
 draft: false 
@@ -39,19 +39,19 @@ sudo usermod -aG vboxusers _username_
 
 En la parte inferior derecha podremos encontrar un icono de USB, al darle click derecho podremos seleccionar nuestra USB. En este caso 802.11 USB WLAN
 
-<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/wifi_virtualbox/1.webp">
+<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/linux/wifi_virtualbox/1.webp">
 
 Lo activamos
 
-<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/wifi_virtualbox/2.webp">
+<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/linux/wifi_virtualbox/2.webp">
 
 En nuestra máquina virtual podremos ver que en el icono de red ya es reconocida nuestro adaptador USB WIFI
 
-<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/wifi_virtualbox/3.webp">
+<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/linux/wifi_virtualbox/3.webp">
 
 Finalmente, estamos conectados a la red deseada.
 
-<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/wifi_virtualbox/4.webp">
+<img width=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/linux/wifi_virtualbox/4.webp">
 
 Con esto ya tenemos configurado nuestra máquina virtual en VirtualBox con un adaptador de WIFI via USB y podremos realizar cualquier proceso que deseemos, por ejemplo, utilizar la suite de *aircrack-ng*.
 

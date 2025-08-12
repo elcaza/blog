@@ -2,7 +2,7 @@
 title: ¿Cómo funcionan los activadores KMS?
 published: 2020-08-13
 description: '¿Cómo funcionan los activadores KMS?  ¿Sabes por qué el software KMS es capaz de “activar” office con tan solo un simple script?'
-image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/como_funcionan_los_activadores_kms.webp'
+image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/como_funcionan_los_activadores_kms.webp'
 tags: [Windows, Activadores]
 category: 'Windows'
 draft: false 
@@ -63,7 +63,7 @@ Para validar una licencia de Windows mediante el servidor KMS que proporciona <a
 
 Desde nuestro explorador de archivos, daremos click derecho sobre *“This PC”* y seleccionaremos *“Properties”*. Encontraremos entonces una ventana como la siguiente:
 
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/1.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/1.webp" width="100%">
 
 ## 2. Cambiar nuestra clave de producto por una válida para el servidor KMS
 
@@ -92,7 +92,7 @@ slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 
 + **/ipk** establece una clave de producto
 
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/2.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/2.webp" width="100%">
 
 ## 3. Cambiar nuestro servidor de activación por uno proporcionado por msguides
 
@@ -103,7 +103,7 @@ slmgr /skms kms8.msguides.com
 + **/skms** establece el nombre del servidor kms
 + Si por alguna razón da un error `kms8.msguides.com` se puede probar con: `kms7.msguides.com` ó `kms9.msguides.com`
 
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/3.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/3.webp" width="100%">
 
 ## 4. Activar el producto
 
@@ -113,11 +113,11 @@ slmgr /ato
 
 + **/ato** realiza la activación
 
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/4.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/4.webp" width="100%">
 
 Si volvemos a las propiedades del sistema del paso número 1 podremos ver que ahora nuestro windows ya está activado
 
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/kms/5.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/5.webp" width="100%">
 
 :::note[Nota]
 En caso de que la activación no funcione se deberá utilizar el siguientes comando y reintentar nuevamente el proceso desde el paso 1

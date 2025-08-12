@@ -2,7 +2,7 @@
 title: Instalación automática de Office con Office Deployment Tool
 published: 2020-05-18
 description: '¿Sabías que es posible instalar cualquier versión de office sin la necesidad de hacer configuraciones paso a paso a través del menú de instalación?'
-image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/office_dt/1.webp'
+image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/office_dt/1.webp'
 tags: [Windows, Activadores]
 category: 'Windows'
 draft: false 
@@ -43,7 +43,7 @@ Todo lo necesario para lanzar la instalación de office de una manera automatiza
 
 Contenido de la carpeta deploy_office
 
-<img witdh=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/office_dt/1.webp">
+<img witdh=100% src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/office_dt/1.webp">
 
 ## 1.1 ¿Cómo se configura el archivo .xml?
 
@@ -125,7 +125,7 @@ Una vez ejecutado nuestro `install` aparecerá la típica pantalla de instalaci�
 Una vez que eso haya finalizado tendremos disponible nuestro Office. Sin embargo, este requiere ser activado posteriormente. Para esto, hay dos formas básicas de realizarlo.
 
 1. Compra de licencia de Microsoft Office
-1. Activador KMS del cual se habla en <a href="https://elcaza.github.io/blog/posts/windows/como_funcionan_los_activadores_kms/">¿Cómo funcionan los activadores KMS? </a>
+1. Activador KMS del cual se habla en <a href="https://elcaza.github.io/blog/windows/posts/windows/como_funcionan_los_activadores_kms/">¿Cómo funcionan los activadores KMS? </a>
     + Ventajas y desventajas
     + ¿Es algo seguro?
     + ¿Por qué funciona?
