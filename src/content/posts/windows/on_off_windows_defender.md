@@ -17,7 +17,7 @@ lang: 'es'
 1. Desactivar Windows Smart Screen
 1. Activar las opciones de seguridad nuevamente
 
-# 1 Casos de uso
+# 1. Casos de uso
 
 En algunas ocasiones es necesario prender o apagar el antivirus para:
 
