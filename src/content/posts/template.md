@@ -11,7 +11,7 @@ lang: 'es'
 
 <a ref="https://www.youtube.com/watch?v=HoVriPxxWH0" target="_blank">link</a>
 
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/1.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/windows/kms/1.png" width="100%">
 
 
 :::tip[Nota final]

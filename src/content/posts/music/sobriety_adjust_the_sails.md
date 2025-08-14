@@ -1,8 +1,8 @@
 ---
-title:  [Lyrics English & Spanish]
-published: 2025-08-12
+title: Adjust The Sails — Sobriety [Lyrics English & Spanish]
+published: 2025-06-27
 description: '¡Una joya de canción!'
-image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/sobriety/sobriety.webp'
+image: 'https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/sobriety/sobriety.jpeg'
 tags: [Music]
 category: 'Music'
 draft: false 
@@ -167,8 +167,8 @@ Amigo realmente odio la sobriedad
 
 # Información
 
-Circuit Saddles — Code Cowboy
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/hackerville_code_cowboy.webp" width="100%">
+Adjust The Sails — Sobriety [Lyrics English & Spanish]
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/sobriety/sobriety.jpeg" width="100%">
 
 :::note[Nota]
 ~~~

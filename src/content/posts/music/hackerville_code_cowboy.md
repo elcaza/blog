@@ -76,7 +76,7 @@ Siempre en movimiento, sin dejar rastro
 # Información
 
 Circuit Saddles — Code Cowboy
-<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/hackerville_code_cowboy.webp" width="100%">
+<img src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/blog/music/hackerville/hackerville_code_cowboy.webp" width="100%">
 
 :::note[Nota]
 Este es un vídeo de la canción “Hackerville” de “Code Cowboy”. Sin duda alguna, una de mis canciones favoritas.
